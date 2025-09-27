@@ -214,9 +214,28 @@ footer {
   margin-bottom: 20px;
 }
 
+/* Swiper Slider */
+.swiper {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto 20px auto;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
 /* ------------------- RESPONSIVE / MOBILE ------------------- */
 @media (max-width: 600px) {
   /* Layout produk */
+
+  .swiper {
+    max-width: 100%;
+  }
+  
   .product-list {
     flex-direction: column;
     gap: 15px;
