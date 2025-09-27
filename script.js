@@ -12,7 +12,7 @@ const products = [
     id: 2, 
     name: "KELIBO", 
     images: ["gambar/klibo.jpg", "gambar/klibo2.jpg", "gambar/klibo3.jpg", "gambar/klibo4.jpg", "gambar/klibo5.jpg", "gambar/agus.jpg"], 
-    price: "R$999", 
+    price: "$999", 
     description: "Pria terkenal dengan sebutan kelibo ,dengan penampilan yang seadanya tetapi menarik di mata wanita karena wajahnya yang manis. Tetapi kisah cintanya yang tidak mulus, Kelibo memutuskan bergabung dengan Tim kami untuk mencari kesenangan bersama wanita-wanita yang ingin menyewa atau menjadikan dia pacar sewaan.", 
     telegram: "https://t.me/kelibo12" 
   },
